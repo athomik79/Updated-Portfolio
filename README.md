@@ -1,2 +1,2 @@
 # Updated-Portfolio
-An updated developer portfolio page using html, css and js
+A sample portfolio page using html, css and js
